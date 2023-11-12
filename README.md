@@ -20,6 +20,10 @@ Save the Clean data to the file
 
 # CODE and OUTPUT
 ## CODE:
+```
+### Developed by: Sabitha P
+### Register number:212222040137
+```
 ```python
 import pandas as pd
 df=pd.read_csv("/content/Loan_data.csv")
