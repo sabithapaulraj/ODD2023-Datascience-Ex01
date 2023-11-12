@@ -20,7 +20,7 @@ Save the Clean data to the file
 
 # CODE and OUTPUT
 ## CODE:
-```
+```python
 import pandas as pd
 df=pd.read_csv("/content/Loan_data.csv")
 df
